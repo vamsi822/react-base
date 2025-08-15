@@ -24,9 +24,7 @@ function App() {
             <a href="#">CSS</a>
             <a href="#">HTML</a>
             <a href="#">MySQL</a>
-            <a href="#">PHP</a>
-            <a href="#">JavaScript</a>
-            <a href="#">C++</a>
+           
           </div>
         </div>
       </div>
